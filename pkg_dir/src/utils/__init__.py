@@ -53,6 +53,34 @@ from .excel_utils import (
     excel_writer,
 )
 
+## MBA class utils
+from .mba263 import (
+    neural_network,
+    neural_network,
+    random_forest,
+    rfm_sq,
+    sample_frequency,
+    ntile,
+    get_means,
+    chi2,
+    ttest,
+    ttest_dummy,
+    gain,
+    lift,
+    regress,
+    odds_ratios,
+    mlogit,
+    logit_reg,
+    logit,
+    scatter,
+    plot_regression,
+    pwcorr,
+    dummy,
+    encode,
+    hist,
+    tabulate,
+)
+
 
 
 
